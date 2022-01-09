@@ -29,7 +29,6 @@ import { RecipesModule } from './recipes/recipes.module';
     HeaderComponent,
     ShoppingListComponent,
     ShoppingEditComponent,
-    DropdownDirective,
     AuthComponent,
     LoadingSpinnerComponent,
     AlertComponent,
